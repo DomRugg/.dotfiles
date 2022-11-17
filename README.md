@@ -1,6 +1,8 @@
-# My Dotfiles
-These are my dotfile configuration files for different software in Bash.
-## .vimrc
-This is my custom .vimrc configuration for Vim.
-## .bashrc
-This is my custom .bashrc configuration for Bash.
+.dotfiles 
+
+This directory contains numerous files and scripts, along with a makefile.
+
+Installing Tools:
+
+Once inside the .dotfiles, you can run the make command which will run the linux.sh and the cleanup.sh scripts. 
+
